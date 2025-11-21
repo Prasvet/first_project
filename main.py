@@ -1,4 +1,4 @@
-from music import sound
+from modul.music import sound
 
 for i in range(5):
     print("Hello, World!")
